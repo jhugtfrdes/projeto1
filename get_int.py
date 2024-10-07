@@ -1,3 +1,3 @@
-def get_int(s):
-	i = int(input(s))
-	return i
+def get_int(msg):
+	i = int(input(msg))
+	return (i)
